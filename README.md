@@ -1,6 +1,6 @@
-# MokkuReborn
+# MokkuReborn: 100% [Mokku](https://github.com/mukuljainx/Mokku), 0% Ads. 
 
-100% Mokku, 0% Ads. Forked from [mukuljainx/Mokku](https://github.com/mukuljainx/Mokku).
+Forked from [mukuljainx/Mokku](https://github.com/mukuljainx/Mokku).
 
 Surprise adware is inexcusable, but developing open-source software takes time and money. If you want to keep the internet ad-free, please support the [original developer](https://github.com/mukuljainx/Mokku) - all donation links go directly to him.
 
