@@ -1,7 +1,7 @@
 {
-  "name": "Mokku",
-  "version": "2.0.10",
-  "description": "Adds the API mocker MOKKU to Chrome Developer Tools for seamless integration & testing.",
+  "name": "MokkuReborn",
+  "version": "1.0.0",
+  "description": "Bring API mocking to Chrome Developer Tools - this time, without the ads or tracking.",
   "main": "index.js",
   "scripts": {
     "start": "rm -rf ./dist && webpack --config webpack/webpack.dev.js --watch",
@@ -15,7 +15,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/chibat/chrome-extension-typescript-starter.git"
+    "url": "https://github.com/itsWeller/MokkuReborn.git"
   },
   "dependencies": {
     "@emotion/react": "^11.10.6",
