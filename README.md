@@ -1,37 +1,21 @@
-# Important Update
+# MokkuReborn
 
-### Ads
-Mokku will show **ads now**, they will be harmless. You can alaways check the code. I will list all the ads in an issue for easier tracking for everyone. 
-Right we are showing only one form https://www.chatplayground.ai 
+100% Mokku, 0% Ads. Forked from [mukuljainx/Mokku](https://github.com/mukuljainx/Mokku).
 
-### Mokku is changing
-Mokku is in transiton form Panel based extention to full page dashboard. For more better ease of use and more features.
+Surprise adware is inexcusable, but developing open-source software takes time and money. If you want to keep the internet ad-free, please support the [original developer](https://github.com/mukuljainx/Mokku) - all donation links go directly to him.
 
-### GraphQL
-GraphQL support is next in the list.
-
-### Premium Version
-Ads free and exclusive features.
-
+> <strong>Donate to Mukul Jain to support Mokku development</strong>
+>
+> <a href="https://paypal.me/mukuljainx" title="Support Mokku using Paypal" target="_blank"><img src="https://www.paypalobjects.com/webstatic/mktg/Logo/pp-logo-150px.png" border="0" alt="PayPal Logo"></a>
+> 
+> <a href="https://www.buymeacoffee.com/mukuljainx" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+> 
+> **UPI Number:** 811721108 (this is not a mobile number but a UPI number)
 
 
-# Mokku
-
-> Mock API calls seamlessly
+## Mock API calls seamlessly
 
 ![small-promo](./docs/store/small-promo.png)
-
-[Chrome Web Store](https://chrome.google.com/webstore/detail/mokku-mock-api-calls-seam/llflfcikklhgamfmnjkgpdadpmdplmji?hl=en&authuser=1) | [MS Edge Add on](https://microsoftedge.microsoft.com/addons/detail/mokku-mock-api-calls-sea/ekcbmjnnnphonejedibidifflhljbobc)
-
-## Support
-
-Developing and maintaing the extenstion requires quite an effort! Cosnider supporting the extention!
-
-<a href="https://paypal.me/mukuljainx" title="Support Mokku using Paypal" target="_blank"><img src="https://www.paypalobjects.com/webstatic/mktg/Logo/pp-logo-150px.png" border="0" alt="PayPal Logo"></a>
-
-<a href="https://www.buymeacoffee.com/mukuljainx" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
-
-**UPI Number:** 811721108 (this is not a mobile number but a UPI number)
 
 
 ### About
