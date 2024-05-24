@@ -5,14 +5,15 @@ Forked from [mukuljainx/Mokku](https://github.com/mukuljainx/Mokku).
 > [!TIP]  
 > **Download available on [Releases](https://github.com/itsweller/MokkuReborn/releases/latest) page.** Chrome Store upload coming soon!
 
-Surprise adware is inexcusable, but developing open-source software takes time and money. If you want to keep the internet ad-free, please support the [original developer](https://github.com/mukuljainx/Mokku) - all donation links go directly to him.
+Surprise adware is inexcusable, but so is not supporting open-source software you use. 
 
-> <strong>Donate to Mukul Jain to support Mokku development</strong>
+Developing open-source software takes time and money. If you want to keep the internet ad-free, please support the [original developer](https://github.com/mukuljainx/Mokku) - all donation links go directly to him.
+
+> [!IMPORTANT]
+> <strong>Donate to [Mukul Jain](https://mukulja.in/) to support Mokku development</strong>
 >
-> <a href="https://paypal.me/mukuljainx" title="Support Mokku using Paypal" target="_blank"><img src="https://www.paypalobjects.com/webstatic/mktg/Logo/pp-logo-150px.png" border="0" alt="PayPal Logo"></a>
-> 
-> <a href="https://www.buymeacoffee.com/mukuljainx" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
-> 
+> <a href="https://paypal.me/mukuljainx" title="Support Mokku using Paypal" target="_blank"><img src="https://www.paypalobjects.com/webstatic/mktg/Logo/pp-logo-150px.png" border="0" alt="PayPal Logo"></a> <a href="https://www.buymeacoffee.com/mukuljainx" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+>
 > **UPI Number:** 811721108 (this is not a mobile number but a UPI number)
 
 
