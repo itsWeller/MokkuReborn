@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "MokkuReborn",
   "description": "Mock APIs from within Chrome Developer Tools",
-  "version": "2.0.10-reborn",
+  "version": "2.0.10",
   "icons": {
     "16": "mokku-16.png",
     "48": "mokku-48.png",
