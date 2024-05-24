@@ -1,6 +1,6 @@
 {
   "name": "MokkuReborn",
-  "version": "1.0.0",
+  "version": "2.0.10-reborn",
   "description": "Bring API mocking to Chrome Developer Tools - this time, without the ads or tracking.",
   "main": "index.js",
   "scripts": {
