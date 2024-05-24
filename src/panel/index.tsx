@@ -1,18 +1,9 @@
 import * as React from "react";
-import * as Sentry from "@sentry/react";
 import { createRoot } from "react-dom/client";
 
 import "../dashboard/index.scss";
 import { MultipleTabsSelector } from "./App/MultipleTabsSelector";
 import { AppLoader } from "./App/AppLoader";
-
-// enable sentry
-Sentry.init({
-  dsn:
-    "https://295710d47ec2a821111e6d0c6542417d@o4505806318469120.ingest.sentry.io/4505806320697344",
-  // Performance Monitoring
-  replaysOnErrorSampleRate: 1.0, // If you're not already sampling the entire session, change the sample rate to 100% when sampling sessions where errors occur.
-});
 
 /**
  * case:
