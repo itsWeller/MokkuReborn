@@ -2,6 +2,9 @@
 
 Forked from [mukuljainx/Mokku](https://github.com/mukuljainx/Mokku).
 
+> [!TIP]  
+> **Download available on [Releases](https://github.com/itsweller/MokkuReborn/releases/latest) page.** Chrome Store upload coming soon!
+
 Surprise adware is inexcusable, but developing open-source software takes time and money. If you want to keep the internet ad-free, please support the [original developer](https://github.com/mukuljainx/Mokku) - all donation links go directly to him.
 
 > <strong>Donate to Mukul Jain to support Mokku development</strong>
